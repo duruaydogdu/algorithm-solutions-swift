@@ -6,3 +6,4 @@
 | 02  |       [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)       |        [aVeryBigSum.swift](solutions/aVeryBigSum.swift)        |
 | 03  |  [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true)  | [diagonalDifference.swift](solutions/diagonalDifference.swift) |
 | 04  |           [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true)           |          [plusMinus.swift](solutions/plusMinus.swift)          |
+| 05  |            [Staircase](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true)            |          [staircase.swift](solutions/staircase.swift)          |
