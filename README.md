@@ -13,3 +13,4 @@
 | 09  |          [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)           |     [gradingStudents.swift](solutions/gradingStudents.swift)     |
 | 10  |      [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)      |      [appleAndOrange.swift](solutions/appleAndOrange.swift)      |
 | 11  |         [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)          |     [numberLineJumps.swift](solutions/numberLineJumps.swift)     |
+| 12  |      [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true)      |      [betweenTwoSets.swift](solutions/betweenTwoSets.swift)      |
