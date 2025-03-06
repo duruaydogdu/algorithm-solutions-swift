@@ -16,3 +16,4 @@
 | 12  |          [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true)           |      [betweenTwoSets.swift](solutions/betweenTwoSets.swift)      |
 | 13  | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true) |  [breakingTheRecords.swift](solutions/breakingTheRecords.swift)  |
 | 14  |          [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true)          |    [subarrayDivision.swift](solutions/subarrayDivision.swift)    |
+| 15  |       [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)        |   [divisibleSumPairs.swift](solutions/divisibleSumPairs.swift)   |
